@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecipeMeals</string>
+    <string name="title_detail_activity">DetailMeal</string>
+</resources>
